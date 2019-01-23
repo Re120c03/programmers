@@ -25,5 +25,5 @@
 <br>
 
 * level1
-  * [모의고사]()
-  * [K번째수]()
+  * [모의고사](https://github.com/Re120c03/programmers/blob/master/level1/42748.js)
+  * [K번째수](https://github.com/Re120c03/programmers/blob/master/level1/42840.js)
