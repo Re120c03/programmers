@@ -27,3 +27,6 @@
 * level1
   * [모의고사](https://github.com/Re120c03/programmers/blob/master/level1/42748.js)
   * [K번째수](https://github.com/Re120c03/programmers/blob/master/level1/42840.js)
+  * [체육복](https://github.com/Re120c03/programmers/blob/master/level1/42862.js)
+  * [2016년](https://github.com/Re120c03/programmers/blob/master/level1/12901.js)
+  * [가운데 글자 가져오기](https://github.com/Re120c03/programmers/blob/master/level1/12903.js)
