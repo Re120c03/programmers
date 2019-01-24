@@ -30,7 +30,7 @@ console.log(solution('abcde'));
 console.log(solution('qwer'));
 
 /*
-   other solution
+   other_solution
 */
 
 function other_solution1(s) {
