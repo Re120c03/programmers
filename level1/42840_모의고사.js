@@ -59,7 +59,7 @@ function solution(answers) {
 }
 
 /*
-   other solution
+   other_solution
 */
 
 function other_solution1(answers) {

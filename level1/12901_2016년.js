@@ -23,7 +23,7 @@ function solution(a, b) {
 console.log(solution(5, 24));
 
 /*
-   other solution
+   other_solution
 */
 
 function other_solution1(a,b){

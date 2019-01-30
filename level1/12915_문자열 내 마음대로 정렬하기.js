@@ -27,13 +27,41 @@ abce와 abcd는 사전순으로 정렬하면 abcd가 우선하므로, 답은 [ab
 
 function solution(strings, n) {
     return strings.sort((a, b)=>{
-        var temp = n;
-        while(a.charCodeAt(temp)==b.charCodeAt(temp)) {
-            temp++;
+        if(a.charCodeAt(n) == b.charCodeAt(n)) {
+            let temp = 0;
+            while(a.charCodeAt(temp) == b.charCodeAt(temp)) {
+                temp++;
+            }
+            return a.charCodeAt(temp)-b.charCodeAt(temp);
+        } else {
+            return a.charCodeAt(n)-b.charCodeAt(n);
         }
-        return a.charCodeAt(temp)-b.charCodeAt(temp)
     });
 }
 
 console.log(solution(['sun', 'bed', 'car'], 1));
 console.log(solution(['abce', 'abcd', 'cdx'], 2));
+
+/*
+   other_solution
+*/
+
+function other_solution1(strings, n) {
+    // strings 배열
+    // n 번째 문자열 비교
+    return strings.sort((s1, s2) => s1[n] === s2[n] ? s1.localeCompare(s2) : s1[n].localeCompare(s2[n]));
+}
+
+function other_solution2(strings, n) {
+    return strings.sort((a, b) => {
+        const chr1 = a.charAt(n);
+        const chr2 = b.charAt(n);
+
+        if (chr1 == chr2) {
+            return (a > b) - (a < b);
+        } else {
+            return (chr1 > chr2) - (chr1 < chr2);
+        }
+    })
+}
+
