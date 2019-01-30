@@ -30,3 +30,8 @@
   * [체육복](https://github.com/Re120c03/programmers/blob/master/level1/42862.js)
   * [2016년](https://github.com/Re120c03/programmers/blob/master/level1/12901.js)
   * [가운데 글자 가져오기](https://github.com/Re120c03/programmers/blob/master/level1/12903.js)
+  * [같은 숫자는 싫어]()
+  * [나누어 떨어지는 숫자 배열]()
+  * [두 정수 사이의 합]()
+  * [문자열 내 마음대로 정렬하기]()
+  * [문자열 내 p와 y의 개수]()
