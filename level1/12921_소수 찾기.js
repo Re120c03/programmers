@@ -20,25 +20,55 @@ n	result
 입출력 예 #2
 1부터 5 사이의 소수는 [2,3,5] 3개가 존재하므로 3를 반환
 */
-let dp = (new Array(100001)).fill(false);
 
 function solution(n) {
+    let memoization = [];
     let count = 0;
     let check = false;
+    let length = 0;
 
     for(let ix = 2; ix <= n; ix++) {
         check = false;
-        for(let iy = 2; iy < ix; iy++) {
-            if(ix % iy == 0) {
+        length = memoization.length;
+        for(let iy = 0; iy < length; iy++) {
+            if(ix % memoization[iy] == 0) {
                 check = true;
                 break;
             }
         }
         if(!check) {
+            memoization.push(ix);
             count++;
         }
     }
+    console.log(memoization);
     return count;
 }
 
-console.log(solution(10));
+function solution2(n) {
+    let memo = (new Array(n - 1)).fill(false);
+    let j = 0;
+
+    for(let i = 2; i <= n; i++) {
+        if(memo[i - 2]) {
+            continue;
+        } 
+        j = i;
+        while(j <= n - i) {
+            j += i;
+            memo[j - 2] = true;
+        }
+    }
+
+    let count = 0;
+    let length = memo.length;
+    for(let i = 0; i < length; i++) {
+        if(!memo[i]) {
+            count++;
+        }
+    }
+
+    return count;
+}
+
+console.log(solution2(10));
