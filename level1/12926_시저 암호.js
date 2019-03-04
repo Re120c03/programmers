@@ -20,19 +20,52 @@ a B z	4	e F d
 */
 
 function solution(s, n) {
-    var answer = s.split('');
-    var ascii = 0;
+    let answer = s.split("");
+    let ascii = 0;
+
     answer.map((val, idx, arr) => {
         ascii = val.charCodeAt(0);
+        ascii += n;
         if(val >= 'a' && val <= 'z') {
-            arr[idx] = String.fromCharCode('a'.charCodeAt(0) + (ascii + n) % 'z'.charCodeAt(0));
+            if(ascii > 'z'.charCodeAt(0)) ascii-=26;
+            arr[idx] = String.fromCharCode(ascii);
         } else if(val >= 'A' && val <= 'Z') {
-            arr[idx] = String.fromCharCode('A'.charCodeAt(0) + (ascii + n) % 'Z'.charCodeAt(0));
+            if(ascii > 'Z'.charCodeAt(0)) ascii-=26;
+            arr[idx] = String.fromCharCode(ascii);
         }
     })
-    return answer;
+    return answer.join("");
 }
 
 console.log(solution('AB', 1));
 console.log(solution('z', 1));
 console.log(solution('a B z', 4));
+
+/*
+   other_solution
+*/
+
+function other_solution1(s, n) {
+    var result = "";
+    // 함수를 완성하세요.
+  var car = ""
+
+  for (var i=0; i<s.length;i++)
+  {        
+    if ( s[i] == ' ' )
+      result += ' '
+    else 
+        result += String.fromCharCode( (s.charCodeAt(i)>90)?
+      (s.charCodeAt(i)+n-97)%26+97 : (s.charCodeAt(i)+n-65)%26+65 )     
+  }
+
+    return result;
+}
+
+function other_solution2(s, n) {
+    var result = s.replace(/[a-z]/ig, c => [ c = c.charCodeAt(0), String.fromCharCode((c & 96) + (c % 32 + n - 1) % 26 + 1) ][1]);
+
+    // 함수를 완성하세요.
+    return result;
+}
+

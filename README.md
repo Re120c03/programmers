@@ -38,7 +38,8 @@
   * [12921_소수 찾기](https://github.com/Re120c03/programmers/blob/master/level1/12921_%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.js)
   * [12922_수박수박수박수박수박수?](https://github.com/Re120c03/programmers/blob/master/level1/12922_%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F.js)
   * [12925_문자열을 정수로 바꾸기](https://github.com/Re120c03/programmers/blob/master/level1/12925_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.js)
+  * [12926_시저 암호]
+  * [12928_약수의 합]
   * [42748_K번째수](https://github.com/Re120c03/programmers/blob/master/level1/42748_K%EB%B2%88%EC%A7%B8%EC%88%98.js)
   * [42840_모의고사](https://github.com/Re120c03/programmers/blob/master/level1/42840_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js)
   * [42862_체육복](https://github.com/Re120c03/programmers/blob/master/level1/42862_%EC%B2%B4%EC%9C%A1%EB%B3%B5.js)
-  * [42895_N으로 표현](https://github.com/Re120c03/programmers/blob/master/level1/42895_N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.js)

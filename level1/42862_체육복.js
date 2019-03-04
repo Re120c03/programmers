@@ -76,7 +76,7 @@ solution(5, [2, 4], [3]);
    other_solution
 */
 
-function solution(n, lost, reserve) {      
+function other_solution1(n, lost, reserve) {      
     return n - lost.filter(a => {
         const b = reserve.find(r => Math.abs(r-a) <= 1)
         if(!b) return true
