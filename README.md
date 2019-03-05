@@ -40,6 +40,14 @@
   * [12925_문자열을 정수로 바꾸기](https://github.com/Re120c03/programmers/blob/master/level1/12925_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.js)
   * [12926_시저 암호](https://github.com/Re120c03/programmers/blob/master/level1/12926_%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.js)
   * [12928_약수의 합](https://github.com/Re120c03/programmers/blob/master/level1/12928_%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.js)
+  * [12930_이상한 문자 만들기]
+  * [12931_자릿수 더하기]
+  * [12932_자연수 뒤집어 배열로 만들기]
+  * [12933_정수 내림차순으로 배치하기]
+  * [12934_정수 제곱근 판별]
+  * [12935_제일 작은 수 제거하기]
+  * [12937_짝수와 홀수]
+  * [12940_최대공약수와 최소공배수]
   * [42748_K번째수](https://github.com/Re120c03/programmers/blob/master/level1/42748_K%EB%B2%88%EC%A7%B8%EC%88%98.js)
   * [42840_모의고사](https://github.com/Re120c03/programmers/blob/master/level1/42840_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js)
   * [42862_체육복](https://github.com/Re120c03/programmers/blob/master/level1/42862_%EC%B2%B4%EC%9C%A1%EB%B3%B5.js)
