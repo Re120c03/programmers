@@ -36,7 +36,7 @@
   * [12918_문자열 다루기 기본](https://github.com/Re120c03/programmers/blob/master/level1/12918_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.js)
   * [12919_서울에서 김서방 찾기](https://github.com/Re120c03/programmers/blob/master/level1/12919_%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.js)
   * [12921_소수 찾기](https://github.com/Re120c03/programmers/blob/master/level1/12921_%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.js)
-  * [12922_수박수박수박수박수박수?](https://github.com/Re120c03/programmers/blob/master/level1/12922_%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F.js)
+  * [12922_수박수박수박수박수박수](https://github.com/Re120c03/programmers/blob/master/level1/12922_%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.js)
   * [12925_문자열을 정수로 바꾸기](https://github.com/Re120c03/programmers/blob/master/level1/12925_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.js)
   * [12926_시저 암호](https://github.com/Re120c03/programmers/blob/master/level1/12926_%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.js)
   * [12928_약수의 합](https://github.com/Re120c03/programmers/blob/master/level1/12928_%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.js)
