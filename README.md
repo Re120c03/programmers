@@ -48,6 +48,13 @@
   * [12935_제일 작은 수 제거하기]
   * [12937_짝수와 홀수]
   * [12940_최대공약수와 최소공배수]
+  * [12943_콜라츠 추측]
+  * [12944_평균 구하기]
+  * [12947_하샤드 수]
+  * [12948_핸드폰 번호 가리기]
+  * [12950_행렬의 덧셈]
+  * [12954_x만큼 간격이 있는 n개의 숫자]
+  * [12969_직사각형 별찍기]
   * [42748_K번째수](https://github.com/Re120c03/programmers/blob/master/level1/42748_K%EB%B2%88%EC%A7%B8%EC%88%98.js)
   * [42840_모의고사](https://github.com/Re120c03/programmers/blob/master/level1/42840_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js)
   * [42862_체육복](https://github.com/Re120c03/programmers/blob/master/level1/42862_%EC%B2%B4%EC%9C%A1%EB%B3%B5.js)
