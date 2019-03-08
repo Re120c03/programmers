@@ -40,21 +40,21 @@
   * [12925_문자열을 정수로 바꾸기](https://github.com/Re120c03/programmers/blob/master/level1/12925_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.js)
   * [12926_시저 암호](https://github.com/Re120c03/programmers/blob/master/level1/12926_%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.js)
   * [12928_약수의 합](https://github.com/Re120c03/programmers/blob/master/level1/12928_%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.js)
-  * [12930_이상한 문자 만들기]
-  * [12931_자릿수 더하기]
-  * [12932_자연수 뒤집어 배열로 만들기]
-  * [12933_정수 내림차순으로 배치하기]
-  * [12934_정수 제곱근 판별]
-  * [12935_제일 작은 수 제거하기]
-  * [12937_짝수와 홀수]
-  * [12940_최대공약수와 최소공배수]
-  * [12943_콜라츠 추측]
-  * [12944_평균 구하기]
-  * [12947_하샤드 수]
-  * [12948_핸드폰 번호 가리기]
-  * [12950_행렬의 덧셈]
-  * [12954_x만큼 간격이 있는 n개의 숫자]
-  * [12969_직사각형 별찍기]
+  * [12930_이상한 문자 만들기](https://github.com/Re120c03/programmers/blob/master/level1/12930_%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
+  * [12931_자릿수 더하기](https://github.com/Re120c03/programmers/blob/master/level1/12931_%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0.js)
+  * [12932_자연수 뒤집어 배열로 만들기](https://github.com/Re120c03/programmers/blob/master/level1/12932_%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
+  * [12933_정수 내림차순으로 배치하기](https://github.com/Re120c03/programmers/blob/master/level1/12933_%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.js)
+  * [12934_정수 제곱근 판별](https://github.com/Re120c03/programmers/blob/master/level1/12934_%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.js)
+  * [12935_제일 작은 수 제거하기](https://github.com/Re120c03/programmers/blob/master/level1/12935_%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.js)
+  * [12937_짝수와 홀수](https://github.com/Re120c03/programmers/blob/master/level1/12937_%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.js)
+  * [12940_최대공약수와 최소공배수](https://github.com/Re120c03/programmers/blob/master/level1/12940_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.js)
+  * [12943_콜라츠 추측](https://github.com/Re120c03/programmers/blob/master/level1/12943_%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.js)
+  * [12944_평균 구하기](https://github.com/Re120c03/programmers/blob/master/level1/12944_%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.js)
+  * [12947_하샤드 수](https://github.com/Re120c03/programmers/blob/master/level1/12947_%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.js)
+  * [12948_핸드폰 번호 가리기](https://github.com/Re120c03/programmers/blob/master/level1/12948_%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.js)
+  * [12950_행렬의 덧셈](https://github.com/Re120c03/programmers/blob/master/level1/12950_%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.js)
+  * [12954_x만큼 간격이 있는 n개의 숫자](https://github.com/Re120c03/programmers/blob/master/level1/12954_x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.js)
+  * [12969_직사각형 별찍기](https://github.com/Re120c03/programmers/blob/master/level1/12969_%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.js)
   * [42748_K번째수](https://github.com/Re120c03/programmers/blob/master/level1/42748_K%EB%B2%88%EC%A7%B8%EC%88%98.js)
   * [42840_모의고사](https://github.com/Re120c03/programmers/blob/master/level1/42840_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js)
   * [42862_체육복](https://github.com/Re120c03/programmers/blob/master/level1/42862_%EC%B2%B4%EC%9C%A1%EB%B3%B5.js)
