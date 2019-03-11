@@ -46,7 +46,7 @@
     * [String.prototype.match()](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/match)
     * [String.prototype.indexOf()](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf)
   * [12921_소수 찾기](https://github.com/Re120c03/programmers/blob/master/level1/12921_%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.js)
-    * 에라토스테네스의 체
+    * [에라토스테네스의 체](https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98_%EC%B2%B4)
   * [12922_수박수박수박수박수박수](https://github.com/Re120c03/programmers/blob/master/level1/12922_%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.js)
     * [String.prototype.repeat()](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/repeat)
   * [12925_문자열을 정수로 바꾸기](https://github.com/Re120c03/programmers/blob/master/level1/12925_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.js)
